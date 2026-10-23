@@ -1,0 +1,23 @@
+# Generated simulation/build outputs
+*.vcd
+*.vvp
+*.log
+*.jou
+*.tmp
+*.swp
+*.bak
+
+# Physical-design databases and large generated outputs (uncomment if desired)
+# *.gds
+# *.gdsii
+# *.def
+# *.spef
+# *.sdf
+# *.lib
+# *.lef
+# *.db
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
